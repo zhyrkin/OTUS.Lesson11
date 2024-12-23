@@ -42,7 +42,7 @@ root@deb12:~# reboot
 После перезагрузки мы видим что система что то чистит во время первой загрузки после изменения имени VG
 ![Скриншот 23-12-2024 121925](https://github.com/user-attachments/assets/3b4255c9-955c-4fa7-b39a-3cb5ff79858e)
 
-Загруились и проверяем VG  
+Загрузились и проверяем VG  
 ![Скриншот 23-12-2024 122246](https://github.com/user-attachments/assets/be684131-c17c-4f8a-a739-bf3acae93f8b)
 
 
