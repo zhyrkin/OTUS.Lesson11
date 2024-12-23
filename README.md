@@ -7,7 +7,7 @@ nano /etc/default/grub
 GRUB_TIMEOUT=5
 
 update-grub
-root@deb12:~# update-grub  
+root@deb12:# update-grub  
 Generating grub configuration file ...  
 Found linux image: /boot/vmlinuz-6.1.0-25-amd64  
 Found initrd image: /boot/initrd.img-6.1.0-25-amd64  
