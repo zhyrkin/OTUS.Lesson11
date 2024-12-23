@@ -1,5 +1,6 @@
 # OTUS.Lesson11
 OTUS.Lesson8. Загрузка системы
+Тестовый стенд 2CPU, 2Gb RAM, 1HDD 6Gb, OS Debian 12
 Задание 1.Включить отображение меню Grub    
 nano /etc/default/grub
 
